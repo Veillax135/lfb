@@ -564,5 +564,5 @@ async def on_disconnect():
 
 
 # Run the bot
-TOKEN = os.environ['BOT_SECRET']
+TOKEN = 'MTE3MTE2Njk2Nzc0NzU4ODE0Nw.G5NuP4.B4qHDggSMU4sYsdox6Tn3X-amSIxA6ofQBzPXs'
 bot.run(TOKEN)
